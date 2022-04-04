@@ -21,7 +21,7 @@ function setup () {
 		u.div.style.top = 1+ i * 10 + "%"
 
 		u.x = 0
-		let colours="red,blue,green,orange,purple,white,pink,grey,violet,turquoise".split(",")
+		let colours="red,blue,green,orange,purple,white,grey,yellow,violet,turquoise".split(",")
 		u.div.style.backgroundColor = colours[i]
 		unicorns[i] = u
 
